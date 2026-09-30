@@ -1,0 +1,57 @@
+  .mainheader{
+    background-color: gray;
+    color: black;
+    border-style: solid;
+    border-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+  }
+  body {
+    margin: 0;
+    font-family: "Roberto", sans-serif;
+    background-color: white;
+  }
+  .navbar {
+    border-style: hidden;
+    background-color:white;
+    text-align: center;
+  }
+  .navbar a {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding:10px 10px;
+    font-size: 20px;
+    background-color:gray;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+  }
+  .navbar a:hover {
+    background-color: dimgray;
+    color: orange;
+  }
+  .navbar a.active {
+    background-color: black;
+    color: white;
+  }
+  .showcase{
+    color: black;
+    text-align: center;
+    font-size: 17px;
+    background-color:whitesmoke;
+    border-style: solid;
+    border-color: black;
+    margin: 5px 5px;
+    border-width: 2px;
+    width: 80%;
+    height: 80%;
+  }
+  footer {
+    background-color: gray;
+    color: black;
+    border-style: solid;
+    border-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+  }
